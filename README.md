@@ -71,18 +71,6 @@ Implementados via Streamlit:
 
 ---
 
-## Execução do Projeto
-
-1. Instalar dependências:
-pip install pandas pyodbc streamlit
-
-2. Executar a aplicação:
-# Forma padrão
-streamlit run app.py
-
-# Alternativa que funcionou em Windows/PowerShell
-python -m streamlit run app.py
-
 ## Prints do Projeto
 ![Dashboard Page 1](https://github.com/l1c0r/hexagon-bi-adventureworks/blob/main/images/streamlit_print%20(1).png)
 ![Dashboard Page 2](https://github.com/l1c0r/hexagon-bi-adventureworks/blob/main/images/streamlit_print%20(2).png)
